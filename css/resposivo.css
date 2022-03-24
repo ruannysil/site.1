@@ -1,0 +1,192 @@
+/*Iphone 12*/
+@media screen  and (max-width:480px) {
+    .content {
+        max-width: 91%;
+        left: 6%;
+    }
+    h4 {
+        max-width: 51%;
+        margin: 0 0 0 none;
+    }
+    .about {
+        padding: 60px 0;
+    }
+    .about img {
+        display: none;
+        height: auto;
+        width: 100%;
+    }
+    .about-text h2 {
+        font-size: 66px;
+        margin-bottom: 23px;
+    }
+    button {
+        font-weight: bold;
+        padding: 14px 128px;
+        font-size: 18px;
+    }
+    .box {
+        display: block;
+    }
+    .card {
+        width: 93%;
+        padding: 12px 31px;
+        margin: 14px;
+        font-size: 20px;
+    }
+    .card .button {
+        padding: 8px 44px;
+        font-size: 17px;
+    }
+    .pra p {
+        font-size: 19px;
+    }
+    .contact-me p {
+        font-size: 20px;
+        text-align: center;
+    }
+    .contact-me .button-two {
+        padding: 8px 109px;
+        font-size: 17px;
+    }
+}
+
+/*Iphone 5*/
+@media screen  and (max-width:320px){
+    button {
+        font-weight: bold;
+        padding: 12px 95px;
+    }
+    .about-text h2 {
+        font-size: 52px;
+        margin-bottom: 15px;
+    }
+    .content {
+        top: 59%;
+        max-width: 90%;
+        left: 7%;
+    }
+    h4 {
+        max-width: 63%;
+    }
+    .btn {
+        display: none;
+    }
+    h1 {
+        margin: 8px 0px 9px;
+        font-size: 44px;
+    }
+    h3 {
+        font-size: 24;
+    }
+    .title h2 {
+        font-size: 39px;
+        margin: 30px auto;
+    }
+    .service {
+        padding: 30px 0px;
+    }
+    .card {
+        height: 446px;
+    }
+    .card .button {
+        padding: 8px 11px;
+    }
+    .contact-me .button-two {
+        padding: 8px 90px;
+    }
+}
+@media screen  and (max-width:1024px) {
+    .navbar {
+        min-height: 110px;
+        padding: 0px 27px;
+        font-size: 20px;
+    }
+    .content {
+        top: 40%;
+        left: 3%;
+    }
+    h4 {
+        font-size: 47px;
+    }
+    h1 {
+        font-size: 100px;
+    }
+    h3 {
+        color: #fff;
+        font-size: 50px;
+        margin-bottom: 50px;
+    }
+    .btnbnt0 form {
+        width: 90%;
+    }
+    .btnbnt0 form input:first-child {
+        width: 75%;
+        padding: 27px 110px 27px 30px;
+        font-size: 20px;
+    }
+    .btnbnt0 form input:last-child {
+        padding: 22px 49px;
+        right: 231px;
+        font-size: 20px;
+    }
+    .hero {
+        height: 75vh;
+    }
+    .about-text h2 {
+        font-size: 94px;
+        margin-bottom: 83pz;
+    }
+    .about-text h5 {
+        font-size: 38px;
+    }
+    .about-text p {
+        font-size: 30px;
+    }
+    button {
+        padding: 14px 25px;
+        font-size: 33px;
+    }
+    .service {
+        padding: 86px 0px;
+    }
+    .title h2 {
+        font-size: 87px;
+        margin: 22px auto;
+    }
+    .card {
+        height: 420px;
+        padding: 0px 0px;
+        margin: 10px;
+    }
+    .card i {
+        font-size: 71px;
+    }
+    h5 {
+        color: #fff;
+    }
+    .pra p {
+        color: #fcfc;
+        font-size: 21px;
+        line-height: 31px;
+        margin-bottom: 47px;
+    }
+    .contact-me .button-two {
+        font-size: 25px;
+    }
+    footer p:nth-child(1) {
+        font-size: 49px;
+    }
+    footer p:nth-child(2) {
+        font-size: 29px;
+        width: 92%;
+    }
+    .social a {
+        width: 70px;
+        height: 70px;
+        font-size: 48px;
+    }
+    .end {
+        font-size: 25px;
+    }
+}
